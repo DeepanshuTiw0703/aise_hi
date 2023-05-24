@@ -13,6 +13,7 @@ body{
 h1{
     margin: 10px;
     font-size: 3rem;
+    font-weight:bold;
 }
 
 .box{
